@@ -1,2 +1,1 @@
-# components-with-formik
-Components with formik
+Components with [formik](https://formik.org/).
