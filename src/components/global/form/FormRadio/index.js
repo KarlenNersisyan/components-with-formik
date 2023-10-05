@@ -1,7 +1,7 @@
 import { Fragment } from 'react';
+import { Field, ErrorMessage } from 'formik';
 
 //* Components
-import { Field, ErrorMessage } from 'formik';
 import TextError from './TextError';
 
 //* Styles

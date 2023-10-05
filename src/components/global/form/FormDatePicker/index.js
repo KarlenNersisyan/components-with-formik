@@ -1,6 +1,7 @@
-//* Components
-import { Field, ErrorMessage } from 'formik';
 import DateView from 'react-datepicker';
+import { Field, ErrorMessage } from 'formik';
+
+//* Components
 import TextError from './TextError';
 
 //* Styles
