@@ -1,7 +1,7 @@
 import { Field, ErrorMessage } from 'formik';
 
 //* Components
-import TextError from './TextError';
+import TextError from '../../TextError';
 
 //* Styles
 import FormTextareaStyle from './style';

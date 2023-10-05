@@ -2,7 +2,7 @@ import DateView from 'react-datepicker';
 import { Field, ErrorMessage } from 'formik';
 
 //* Components
-import TextError from './TextError';
+import TextError from '../../TextError';
 
 //* Styles
 import FormDatePickerStyle from './style';

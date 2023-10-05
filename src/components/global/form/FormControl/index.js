@@ -1,10 +1,10 @@
 //* Components
-import FormInput from './FormInput';
-import FormRadio from './FormRadio';
-import FormSelect from './FormSelect';
-import FormTextarea from './FormTextarea';
-import FormCheckbox from './FormCheckbox';
-import FormDatePicker from './FormDatePicker';
+import FormInput from '../FormInput';
+import FormRadio from '../FormRadio';
+import FormSelect from '../FormSelect';
+import FormTextarea from '../FormTextarea';
+import FormCheckbox from '../FormCheckbox';
+import FormDatePicker from '../FormDatePicker';
 
 const FormControl = (props) => {
 	const { control, ...rest } = props;
